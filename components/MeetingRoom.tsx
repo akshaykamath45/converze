@@ -1,7 +1,7 @@
 import React from "react";
 
 const MeetingRoom = () => {
-  return <div></div>;
+  return <div>Meeting Room</div>;
 };
 
 export default MeetingRoom;
